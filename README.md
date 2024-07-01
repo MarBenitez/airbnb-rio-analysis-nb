@@ -1,5 +1,5 @@
 
-# Project: Comprehensive Analysis of the Airbnb Dataset for Rio de Janeiro
+# Rio de Janeiro - Airbnb Dataset Comprehensive Analysis
  
  ![Banner](https://images.adsttc.com/media/images/6449/6c61/2def/3401/7a85/1139/slideshow/a-historia-do-calcadao-de-copacabana_3.jpg?1682533486)
 
@@ -40,6 +40,14 @@ Additionally, the project aims to develop an interactive application that will b
 - Visualize correlations using heatmaps or scatter plots
 - Identify highly correlated variables
 - Understand relationships between different features
+
+## Notebooks
+To run the analysis:
+
+- In you local: simply download and open [airbnb_rio.ipynb](https://github.com/MarBenitez/airbnb-rio-analysis-nb/blob/main/airbnb_rio.ipynb), in Jupyter Notebook or Jupyter Lab and follow the code cells. The notebook is thoroughly documented to guide you through the analysis process.
+
+- Colab and Drive: follow the link to the [notebook](https://drive.google.com/file/d/1DzsAfISkh0MmKJOsDz-e2xPfXQqyhDYO/view?usp=sharing) and to the [folder](https://drive.google.com/drive/folders/1t860c_fNDIO7j4IWnhpWcynj6zNL05lb?usp=sharing).
+
  
 ## Interactive Application Development
  
@@ -60,6 +68,3 @@ Additionally, the project aims to develop an interactive application that will b
 ## Conclusion
  
 By completing this project, we aim to provide valuable insights into the Airbnb market in Rio de Janeiro. The interactive application will serve as a practical tool for travelers to find their ideal accommodation based on data-driven analysis.
-
-## Notebooks
-To run the analysis in the [notebook](https://github.com/MarBenitez/airbnb-rio-analysis-nb/blob/main/airbnb_rio.ipynb), simply download and open airbnb_rio.ipynb in Jupyter Notebook or Jupyter Lab and follow the code cells. The notebook is thoroughly documented to guide you through the analysis process.
