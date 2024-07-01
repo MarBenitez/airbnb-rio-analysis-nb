@@ -44,9 +44,9 @@ Additionally, the project aims to develop an interactive application that will b
 ## Notebooks
 To run the analysis:
 
-- In you local: simply download and open [airbnb_rio.ipynb](https://github.com/MarBenitez/airbnb-rio-analysis-nb/blob/main/airbnb_rio.ipynb), in Jupyter Notebook or Jupyter Lab and follow the code cells. The notebook is thoroughly documented to guide you through the analysis process.
+- In you local: simply download and open [airbnb_rio.ipynb](https://github.com/MarBenitez/airbnb-rio-analysis-nb/blob/main/airbnb_rio.ipynb) in Jupyter Notebook or Jupyter Lab and follow the code cells. The notebook is thoroughly documented to guide you through the analysis process.
 
-- Colab and Drive: follow the link to the [notebook](https://drive.google.com/file/d/1DzsAfISkh0MmKJOsDz-e2xPfXQqyhDYO/view?usp=sharing) and to the [folder](https://drive.google.com/drive/folders/1t860c_fNDIO7j4IWnhpWcynj6zNL05lb?usp=sharing).
+- Google Drive: follow the link to the [folder](https://drive.google.com/drive/folders/1t860c_fNDIO7j4IWnhpWcynj6zNL05lb?usp=sharing) and open the airbnb_rio_colab.ipynb in Colab.
 
  
 ## Interactive Application Development
