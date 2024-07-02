@@ -51,7 +51,7 @@ To run the analysis:
  
 ## Interactive Application Development
  
-- Design and implement an [_interactive application_](https://github.com/juuliquintana/airbnb-rio-streamlit-app)
+- Design and implement an [_interactive application_](https://github.com/MarBenitez/airbnb-rio-streamlit-app)
 - Ensure user-friendly interface and navigation
 - Integrate the EDA insights to help travelers
 - Provide filters and search functionality for accommodations
